@@ -1,6 +1,6 @@
 # DevLinks
+![readme-devLinks-Img](https://github.com/LucaPinheiro/DevLinks/assets/133619664/14ff10fd-8293-43b3-be1b-ed6a35a7c787)
 
-![DevLinks]([https://github.com/LucaPinheiro/DevLinks/issues/1#issue-1761604256](https://user-images.githubusercontent.com/133619664/246581965-90fb7a3b-927c-4e18-b8b2-b4994a30822d.png))
 
 Projeto promovido pela Rocketseat para ensino de tecnologias WEB.
 
